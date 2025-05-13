@@ -116,7 +116,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     margin-top: 10px;
-    gap: 30px;
+/*  gap: 30px;  */
 }
 .footer{
     padding: 30px;
